@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\view\\frmkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\model\\frmstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\rm\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|c:\\users\\lechu\\onedrive\\escritorio\\proyecto (1)\\proyecto universidad\\proyecto final progra\\rm\\rm\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD00F38-8600-40B4-9A69-C7A7DCC186B8}|RM\\RM.csproj|solutionrelative:rm\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SampleAdd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\SampleAdd.cs",
+              "RelativeDocumentMoniker": "RM\\SampleAdd.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\SampleAdd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RM\\SampleAdd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:20:31.654Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmStaffAdd.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmStaffAdd.cs",
+              "RelativeDocumentMoniker": "RM\\Model\\frmStaffAdd.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmStaffAdd.cs",
+              "RelativeToolTip": "RM\\Model\\frmStaffAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:00:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmStaffAdd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmStaffAdd.cs",
+              "RelativeDocumentMoniker": "RM\\Model\\frmStaffAdd.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmStaffAdd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RM\\Model\\frmStaffAdd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:59:45.392Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKitchenView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\View\\frmKitchenView.cs",
+              "RelativeDocumentMoniker": "RM\\View\\frmKitchenView.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\View\\frmKitchenView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RM\\View\\frmKitchenView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:48:33.037Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBillList.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "RM\\Model\\frmBillList.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmBillList.cs",
+              "RelativeToolTip": "RM\\Model\\frmBillList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:52:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKitchenView.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\View\\frmKitchenView.cs",
+              "RelativeDocumentMoniker": "RM\\View\\frmKitchenView.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\View\\frmKitchenView.cs",
+              "RelativeToolTip": "RM\\View\\frmKitchenView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:51:20.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "RM\\Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmPOS.cs",
+              "RelativeToolTip": "RM\\Model\\frmPOS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:16:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\MainClass.cs",
+              "RelativeDocumentMoniker": "RM\\MainClass.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\MainClass.cs",
+              "RelativeToolTip": "RM\\MainClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:45:21.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "RM\\Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\lechu\\OneDrive\\Escritorio\\proyecto (1)\\PROYECTO UNIVERSIDAD\\PROYECTO FINAL PROGRA\\RM\\RM\\Model\\frmPOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RM\\Model\\frmPOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:12:52.448Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

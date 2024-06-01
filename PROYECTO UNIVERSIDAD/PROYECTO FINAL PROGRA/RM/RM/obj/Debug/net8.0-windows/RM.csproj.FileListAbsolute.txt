@@ -1,0 +1,143 @@
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.exe
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.deps.json
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.runtimeconfig.json
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.pdb
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmLogin.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.GenerateResource.cache
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.AssemblyInfoInputs.cache
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.AssemblyInfo.cs
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\refint\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.pdb
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.genruntimeconfig.cache
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\ref\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.AssemblyReference.cache
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Properties.Resources.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.Up2Date
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmMain.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.dll.config
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmHome.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.SampleAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.SampleView.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmCategoryView.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmCategoryAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmTableAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmTableView.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmStaffAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmStaffView.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmProductAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmProductView.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmPOS.resources
+C:\Users\Cristofer\Desktop\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.ucProduct.resources
+C:\Users\lechu\OneDrive\Escritorio\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.AssemblyReference.cache
+C:\Users\lechu\OneDrive\Escritorio\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.dll
+C:\Users\lechu\OneDrive\Escritorio\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\refint\RM.dll
+C:\Users\lechu\OneDrive\Escritorio\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.pdb
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.exe
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.dll.config
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.deps.json
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.runtimeconfig.json
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.pdb
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.AssemblyReference.cache
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmHome.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmLogin.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmMain.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmBillList.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmCategoryAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmCheckout.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmPOS.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmProductAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmStaffAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmTableAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmTableSelect.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmWaiterSelect.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.ucProduct.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Properties.Resources.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.SampleAdd.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.SampleView.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmCategoryView.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmKitchenView.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmProductView.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmStaffView.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmTableView.resources
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.GenerateResource.cache
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.AssemblyInfoInputs.cache
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.AssemblyInfo.cs
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.Up2Date
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\refint\RM.dll
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.pdb
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.genruntimeconfig.cache
+C:\Users\Cristofer\Desktop\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\ref\RM.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.AssemblyReference.cache
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\refint\RM.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.pdb
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.exe
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.dll.config
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.deps.json
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\RM.pdb
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmHome.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmLogin.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.frmMain.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmBillList.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmCategoryAdd.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmCheckout.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmPOS.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmProductAdd.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmStaffAdd.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmTableAdd.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmTableSelect.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.frmWaiterSelect.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Model.ucProduct.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.Properties.Resources.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.SampleAdd.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.SampleView.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmCategoryView.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmKitchenView.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmProductView.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmStaffView.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.View.frmTableView.resources
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.GenerateResource.cache
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.csproj.Up2Date
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\RM.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\proyecto (1)\PROYECTO UNIVERSIDAD\PROYECTO FINAL PROGRA\RM\RM\obj\Debug\net8.0-windows\ref\RM.dll

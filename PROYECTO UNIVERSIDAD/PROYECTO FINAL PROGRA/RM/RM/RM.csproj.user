@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmBillList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmCategoryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmCheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmStaffAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmTableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmTableSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmWaiterSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\ucProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SampleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmCategoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmKitchenView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmStaffView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmTableView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
